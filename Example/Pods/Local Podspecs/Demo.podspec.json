@@ -1,15 +1,14 @@
 {
   "name": "Demo",
   "version": "0.1.0",
-  "summary": "A short description of Demo.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/Demo",
+  "summary": "Demo cocoapods library",
+  "homepage": "https://github.com/quannguyen90/Demo",
   "license": "MIT",
   "authors": {
     "Quan Nguyen Van": "quannv.tm@gmail.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/Demo.git",
+    "git": "https://github.com/quannguyen90/Demo.git",
     "tag": "0.1.0"
   },
   "platforms": {
